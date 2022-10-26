@@ -1,0 +1,15 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+body {
+    width: auto;
+    height: auto;
+    background: black;
+}
+
+marquee {
+    height: 100vh;
+}
